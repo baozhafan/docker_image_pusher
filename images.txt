@@ -7,4 +7,3 @@ xhofe/alist:latest
 bestoray/pgyvpn
 jeessy/ddns-go
 gotson/komga
-dezhao/lanraragi
