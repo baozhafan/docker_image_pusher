@@ -8,3 +8,4 @@ bestoray/pgyvpn
 jeessy/ddns-go
 gotson/komga
 dezhao/lanraragi
+xinjiawei1/emby_unlockd
